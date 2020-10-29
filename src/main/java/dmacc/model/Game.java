@@ -11,14 +11,6 @@ public class Game {
 	private String player1;
 	private String computerPlayer;
 	private String winner;
-	/**
-	//add variables
-	private String rock = "rock";
-	private String paper = "paper";
-	private String scissors = "scissors";
-	private String spock = "spock";
-	private String lizard = "lizard";
-	*/
 	
 	public Game(String player1) {
 		super();
